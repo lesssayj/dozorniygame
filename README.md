@@ -1,2 +1,2 @@
 # dozorniygame
-dozorniygame
+dozorniygame.github.io
